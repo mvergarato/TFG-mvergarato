@@ -1,9 +1,9 @@
 # TFG-mvergarato
-# 🎵 Bambi Lab
+# 🎵 BambiLab
 
 ## 📌 Descripción
 
-Bambi Lab es una aplicación web diseñada para ofrecer un entorno sencillo donde los usuarios puedan explorar y adquirir recursos musicales utilizando un sistema de monedero virtual. Los usuarios pueden registrarse, iniciar sesión y gestionar su saldo ficticio para realizar compras dentro de la plataforma. En el futuro, se añadirá una pasarela de pago real para monetizar los productos.
+BambiLab es una aplicación web diseñada para ofrecer un entorno sencillo donde los usuarios puedan explorar y adquirir recursos musicales utilizando un sistema de monedero virtual. Los usuarios pueden registrarse, iniciar sesión y gestionar su saldo ficticio para realizar compras dentro de la plataforma. En el futuro, se añadirá una pasarela de pago real para monetizar los productos.
 
 ## 🚀 Características
 
